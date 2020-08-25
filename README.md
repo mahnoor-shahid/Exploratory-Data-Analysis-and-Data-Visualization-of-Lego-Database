@@ -30,5 +30,5 @@ This project uses **Jupyter Notebook** for analyzing and visualizing datasets in
  # Created By
  **Mahnoor Shahid** - Initial work
  - Linkedin Profile - https://www.linkedin.com/in/mahnoor-v20399/
- - Website - https://mahnoorshahid.ml
+
  
